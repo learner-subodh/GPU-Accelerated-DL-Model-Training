@@ -88,7 +88,7 @@ The model is a simple CNN with:
 
 | Metric                   | CPU                   | GPU                     |
 | ------------------------ | --------------------- | ----------------------- |
-| Training Time (2 epochs) | \~190 seconds         | \~135 seconds           |
+| Training Time (2 epochs) | \~290 seconds         | \~135 seconds           |
 | Test Accuracy            | \~63.24%              | \~64.50%                |
 | Device Used              | Intel CPU (Colab CPU) | NVIDIA Tesla T4 (Colab) |
 
