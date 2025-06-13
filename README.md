@@ -133,7 +133,7 @@ is available in the `report/` folder.
 ## 📬 Contact
 
 **Author**: Subodh Lonkar
-**LinkedIn**: [linkedin.com/in/learner-subodhlonkar13](https://www.linkedin.com/in/learner-subodhlonkar13)
+**LinkedIn**: [linkedin.com/in/subodhlonkar13](https://www.linkedin.com/in/subodhlonkar13/)
 **Email**: [learner.subodh@gmail.com](mailto:your.email@example.com)
 
 ---
